@@ -36,6 +36,7 @@ These files are critical for the self-assessment process and provide a clear pat
 3. Use the **Practice Self Rating Tool** to perform your self-assessment.
 4. Refer to the **Practice Self Rating Tool - EXAMPLE** for guidance on leveraging the tool and creating an action plan.
 5. Develop your action plan and execute steps to mature your practice.
+6. Optionally schedule time with a Customer and Partner Success Architect by sending an email to AskMCfSPPA@microsoft.com. 
 
 ## Contributing
 
