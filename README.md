@@ -2,6 +2,7 @@
 
 Partner Practice Toolkit is a comprehensive set of resources designed for System Integrators (SIs) and Implementation Partners to **assess**, **calibrate**, and **mature** their Microsoft Cloud for Sustainability Practice. 
 
+**NOTE and REQUEST** - If you are utilizing the Toolkit, please email AskMCfSPPA@microsoft.com to inform us.
 ## Overview
 
 This toolkit equips partners with the tools and frameworks needed to evaluate their current sustainability practice maturity, align with market opportunities, and develop actionable plans to scale their capabilities.
