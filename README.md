@@ -36,7 +36,7 @@ These files are critical for the self-assessment process and provide a clear pat
 3. Use the **Practice Self Rating Tool** to perform your self-assessment.
 4. Refer to the **Practice Self Rating Tool - EXAMPLE** for guidance on leveraging the tool and creating an action plan.
 5. Develop your action plan and execute steps to mature your practice.
-6. *NOTE and a kind request* - If you are utilizing the Toolkit, please email AskMCfSPPA@microsoft.com to inform us. Additionally, you may schedule a time with us to review your completed answers and Action Plan if desired.
+6. **NOTE and REQUEST** - If you are utilizing the Toolkit, please email AskMCfSPPA@microsoft.com to inform us. Additionally, you may schedule a time with us to review your completed answers and Action Plan if desired.
 
 ## License
 
