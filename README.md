@@ -6,7 +6,7 @@ Partner Practice Toolkit is a comprehensive set of resources designed for System
 
 This toolkit equips partners with the tools and frameworks needed to evaluate their current sustainability practice maturity, align with market opportunities, and develop actionable plans to scale their capabilities.
 
-## How to Use the Partner Practice Toolkit
+## How to Use the Partner Practice Toolkit?
 
 To get started, follow the instructional video series in the recommended order:
 
@@ -36,14 +36,7 @@ These files are critical for the self-assessment process and provide a clear pat
 3. Use the **Practice Self Rating Tool** to perform your self-assessment.
 4. Refer to the **Practice Self Rating Tool - EXAMPLE** for guidance on leveraging the tool and creating an action plan.
 5. Develop your action plan and execute steps to mature your practice.
-6. Optionally schedule time with a Customer and Partner Success Architect by sending an email to AskMCfSPPA@microsoft.com. 
-
-## Contributing
-
-We welcome contributions! Please follow the standard GitHub workflow for pull requests:
-1. Fork this repository.
-2. Create a new branch for your changes.
-3. Submit a pull request with a detailed description of the updates.
+6. *NOTE and a kind request* - If you are utilizing the Toolkit, please email AskMCfSPPA@microsoft.com to inform us. Additionally, you may schedule a time with us to review your completed answers and Action Plan if desired.
 
 ## License
 
